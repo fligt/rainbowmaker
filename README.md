@@ -18,9 +18,9 @@ historic technique of paper chromatography however, it is not obvious
 how to extract the color properties of dye components as these are
 hidden somewhere in the UHPLC-PDA chromatogram and absorbance spectra.
 
-<img width=80% src="https://fligt.github.io/rainbowmaker/images/from-absorbances-to-colors.png">
+<img width=80% src="https://github.com/fligt/rainbowmaker/raw/master/notebooks/images/from-absorbances-to-colors.png">
 
-*Figure 1. Computed dilution colors(right) from absorbance spectra
+*Figure 1. Computed dilution colors (right) from absorbance spectra
 (left) for an historic methyl-violet dye.*
 
 `rainbowmaker` is an open source Python package based on color physics
