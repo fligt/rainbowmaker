@@ -10,23 +10,26 @@ mixtures. The presence of different components was evidenced by
 different color bands in the paper. Ultra High Performance Liquid
 Chromatography (UHPLC) coupled with a Photo Diode Array (PDA) detector
 is a modern liquid chromatography technique that can be used to separate
-and identify different components in dyes and other samples.
+and identify different components in dyes and other samples. In
+comparison to the historic technique of paper chromatography however, it
+is not obvious how to extract the color properties of dye components as
+these are hidden somewhere in the UHPLC-PDA chromatogram and absorbance
+spectra.
 
-In comparison to the historic technique of paper chromatography however,
-it is not obvious how to extract the color properties of dye components
-as these are hidden somewhere in the UHPLC-PDA chromatogram and
-absorbance spectra. In our lab we study historic dyes and their color is
-of primary importance.
+<img width=80% src="images/from-absorbances-to-colors.png">
 
-Rainbowmaker is an open source Python package based on color physics
-that can be used to compute dilution colors for individual dye
-components and mixtures from UHPLC-PDA data.
+In our lab we study historic dyes and their color is of primary
+importance. `rainbowmaker` is an open source Python package based on
+color physics that can be used to compute dilution colors for individual
+dye components and mixtures from UHPLC-PDA data.
 
 This package is developed out in the open. If you are interested you can
 follow our ideas under construction in this documentation and already
-try out the Jupyter notebooks in this repository. Our goal is to make
-the package available for installation soon…
+try out the Jupyter
+[notebooks](https://github.com/fligt/rainbowmaker/tree/master/notebooks)
+in this repository. Our goal is to make the package available for
+installation soon…
 
 Frank Ligterink and Sanne Berbers
 
-See link to documentation.
+See [link](https://fligt.github.io/rainbowmaker/) to documentation.
