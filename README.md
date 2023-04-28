@@ -9,24 +9,20 @@ piece of paper was used to separate different dye components in
 mixtures. The presence of different components was evidenced by
 different color bands in the paper. Ultra High Performance Liquid
 Chromatography (UHPLC) coupled with a Photo Diode Array (PDA) detector
-is a modern liquid chromatography technique that can be used to separate
-and identify different components in dyes and other samples. In
-comparison to the historic technique of paper chromatography however, it
-is not obvious how to extract the color properties of dye components as
-these are hidden somewhere in the UHPLC-PDA chromatogram and absorbance
-spectra.
+is a sensitive liquid chromatography technique that can be used to
+separate and identify different components in dyes and other samples. In
+our lab (the Rijkserfgoedlaboratorium in Amsterdam) we use this
+technique to study historic dyes and their precise colors are of primary
+interest. In comparison to the historic technique of paper
+chromatography however, it is not obvious how to extract the color
+properties of dye components as these are hidden somewhere in the
+UHPLC-PDA chromatogram and absorbance spectra.
 
-<figure>
-<img src="images/from-absorbances-to-colors.png" style="width:80.0%"
-alt="From absorbances to colors" />
-<figcaption aria-hidden="true">From absorbances to colors</figcaption>
-</figure>
+<img width=80% src="https://fligt.github.io/rainbowmaker/images/from-absorbances-to-colors.png">
 
-In our lab(the Rijkserfgoedlaboratorium in Amsterdam) we study historic
-dyes and their precise colors are of primary importance. `Rainbowmaker`
-is an open source Python package based on color physics that can be used
-to compute dilution colors for individual dye components and mixtures
-from UHPLC-PDA data.
+`rainbowmaker` is an open source Python package based on color physics
+that can be used to compute dilution colors for individual dye
+components and mixtures from UHPLC-PDA data.
 
 This package is developed out in the open. If you are interested you can
 follow our ideas under construction in this documentation and already
