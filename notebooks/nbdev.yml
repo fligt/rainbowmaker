@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "rainbowmaker"
+  site-url: "https://fligt.github.io/rainbowmaker"
+  description: "Compute dye colors from your UHPLC-PDA chromatography data"
+  repo-branch: master
+  repo-url: "https://github.com/fligt/rainbowmaker"
