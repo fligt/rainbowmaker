@@ -6,4 +6,4 @@ d = { 'settings': { 'branch': 'master',
                 'git_url': 'https://github.com/fligt/rainbowmaker',
                 'lib_path': 'rainbowmaker'},
   'syms': { 'rainbowmaker.core': {'rainbowmaker.core.foo': ('core.html#foo', 'rainbowmaker/core.py')},
-            'rainbowmaker.reader': {'rainbowmaker.reader.foo': ('reader.html#foo', 'rainbowmaker/reader.py')}}}
+            'rainbowmaker.reader': {'rainbowmaker.reader.read_pda': ('reader.html#read_pda', 'rainbowmaker/reader.py')}}}
