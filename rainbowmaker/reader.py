@@ -3,12 +3,12 @@
 # %% auto 0
 __all__ = ['read_pda']
 
-# %% ../notebooks/00_reader.ipynb 11
+# %% ../notebooks/00_reader.ipynb 12
 import re 
 import numpy as np  
 
 
-# %% ../notebooks/00_reader.ipynb 12
+# %% ../notebooks/00_reader.ipynb 13
 def read_pda(filename, sep='\t', encoding='utf-8-sig', thousand_sep=','): 
     '''Read Thermo PDA text file. 
     
